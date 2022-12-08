@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  margin: 50px 1% 50px 1%;
+}
+
+.App {
+  display: inline-block;
+  background-color: #dddddd;
+  height: 600px;
+  width: 950px;
+  border: 2px black solid;
+}
